@@ -6,7 +6,7 @@ const ContactPage = () => {
 
 	return(
 
-		<div> 
+		<div className="m-0 p-0"> 
 
 		<NavBar />
 

@@ -1,3 +1,5 @@
+import NavBar from  '../components/NavBar.jsx';
+
 const ProductPage = () => {
 
 
@@ -6,9 +8,7 @@ const ProductPage = () => {
 
 		<div>
 
-			<h1> Product Page </h1> 
-
-
+			<NavBar />
 		</div>
 
 	);
