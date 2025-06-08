@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+SC:ital,wght@0,100..900;1,100..900&family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+SC:ital,wght@0,100..900;1,100..900&family=Bebas+Neue&family=Rokkitt:ital,wght@0,100..900;1,100..900&display=swap');
 @import "tailwindcss";
 
 
 @theme{
 	--font-bebas: "Bebas Neue", sans-serif;
 	--font-alumni: "Alumni Sans SC", sans-serif;
+	--font-rokkitt: "Rokkitt", serif;
 }
